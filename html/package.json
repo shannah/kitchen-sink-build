@@ -1,0 +1,15 @@
+{
+  "bin": {"html": "jdeploy-bundle/jdeploy.js"},
+  "author": "",
+  "description": "",
+  "main": "index.js",
+  "preferGlobal": true,
+  "repository": "",
+  "version": "1.0.0",
+  "jdeploy": {"war": "KitchenSink-2.03.war"},
+  "dependencies": {"shelljs": "^0.7.5"},
+  "license": "ISC",
+  "name": "html",
+  "files": ["jdeploy-bundle"],
+  "scripts": {"test": "echo \"Error: no test specified\" && exit 1"}
+}
