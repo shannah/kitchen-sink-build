@@ -1,0 +1,8 @@
+.DS_Store
+KitchenSink.properties
+lib/JavaSE.pack.gz
+lib/KitchenSink-impl.jar
+lib/KitchenSink-resources.jar
+lib/JavaSE.jar
+INDEX.LIST
+KitchenSink.jar
